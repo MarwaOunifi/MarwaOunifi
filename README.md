@@ -23,7 +23,7 @@ I love building intelligent projects that turn raw data into meaningful insights
 ## 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-MarwaOunifi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![Gmail](https://img.shields.io/badge/-MarwaOunifi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/-MarwaOunifi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](marwawenifi026@gmail.com)
 [![GitHub](https://img.shields.io/badge/-MarwaOunifi-333?style=flat&logo=github&logoColor=white)](https://github.com/MarwaOunifi)
 
 ![GitHub followers](https://img.shields.io/github/followers/MarwaOunifi?style=social)
